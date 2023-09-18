@@ -1,12 +1,12 @@
 body {
   text-align: center;
-  background-color: rgba(230, 228, 227, 0.479);
+  background-color: rgba(228, 222, 222, 0.658);
   font-family: "Times New Roman", Times, serif;
 }
 
 @media screen and (max-width: 1600px) {
   body {
-    background-color: #adaba96b;
+    background-color: #3a36316b;
   }
   .contact-button {
     background-color: #adaba96b;
